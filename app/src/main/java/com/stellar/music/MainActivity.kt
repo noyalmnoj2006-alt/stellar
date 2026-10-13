@@ -277,7 +277,7 @@ class MainActivity : Activity() {
         })
 
         root.addView(label(
-            "Starter edition • Queue is not saved after the player closes.",
+            "Your collection is saved • Keep local files in their original location.",
             12f,
             "#7E849E"
         ))
